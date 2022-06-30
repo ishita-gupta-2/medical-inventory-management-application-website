@@ -1,5 +1,5 @@
 # medical-inventory-management-application-website
-Medical Inventory Management Web Application (using Node.js, Express, PostgreSQL)Medical Inventory Management Web Application (using Node.js, Express, PostgreSQL)
+Medical Inventory Management Web Application (using Node.js, Express, PostgreSQL)
 
 •A real-time database-oriented application that stores data into the Postgres database.
 •It allows users to perform CRUD operations from the front end on a real-time basis.
